@@ -1,0 +1,16 @@
+[project]
+name = "lorax-common"
+description = "Common utilities used by LoraxCogs"
+readme = "README.md"
+authors = [
+  { name = "EvilSquirrelGuy" },
+]
+license = "GPL-3.0-or-Later"
+dependencies = [
+  "discord",
+]
+requires-python = ">=3.8"
+classifiers = [
+  "Private :: Do Not Upload",
+  "Programming Language :: Python :: 3",
+]
